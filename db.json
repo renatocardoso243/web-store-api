@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "MSI Pulse",
+      "brand": "MSI",
+      "category": "Computadores",
+      "price": "500",
+      "description": "MSI Pulse GL66 15.6",
+      "imageFilename": "MSIPulseGL66-11UEK__1__01.jpg",
+      "createdAt": "2023-07-13T17:46:54.8900000"
+    },
+    {
+      "id": 2,
+      "name": "Acer Switf",
+      "brand": "Acer",
+      "category": "Computadores",
+      "price": "929",
+      "description": "Acer Swift X SFX14-42G-R607",
+      "imageFilename": "1716745299021_61ZPReoZJlL._AC_UF894,1000_QL80_.jpg",
+      "createdAt": "2023-07-13T17:46:54.8900000"
+    },
+    {
+      "name": "Tablet Dell Latitude",
+      "brand": "Dell",
+      "category": "Outros",
+      "price": 1500,
+      "description": "Novo tablet da marca dell",
+      "imageFilename": "Tablet-Dell-Latitude-11-4GB-RAM-SSD-240GB-Tela-LCD-10-1-Polegadas-Intel-Core-M5-Windows-10_1707416297_gg.jpg",
+      "createdAt": "2024-05-26T17:52:27.532Z",
+      "id": 3
+    }
+  ]
+}
